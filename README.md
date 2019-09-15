@@ -1,17 +1,9 @@
-# Basic Social Media App
-This is a basic social media app built using Express and GraphQL on the backend and React on the frontend.
+Community Garden Starter -- proof of concept
 
-## App usage
-Why?
-#### Usage
-Users can signup and login. They can view eveyones posts and make posts of their own. They can also view all comments and make comments of their own. They can view specific users' pages to see the posts they've made. Users can also update their accound details and/or delete their account.
+A hub that allows local communities to organize community gardens with acces
+that is provided by the app to local produce and other resources for getting started.
 
-## Setup
-Really. Why?
+Community gardens are one of the most impactful events that a group can do.
 
-## But wait....
-"Why is the _______ not like an actual _______?"  
-Since this application was made only to learn a bunch of stuff, a lot of critical features would be missing.
-For example there is no notifications system and no concept of friends/followers.
-There is also pagination only for the home page, but not for the users page.
-Other odd design choices, like in the GraphQL schema, are explained as comments in those files.
+This would serve as a cloud-based social media platform that is built specifically for the creation of community gardens,
+equipped with directions to tap into local resources as well as connect with other gardens from other communities. 
